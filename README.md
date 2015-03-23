@@ -1,4 +1,8 @@
-asn3-zalbiraw-mahme6
-====================
+# IRC Client
+##Saad Ahmed and Zaid Albirawi
 
-Assignment 3 group repo for zalbiraw and mahme6
+A Simple IRC client written in C.
+Requires the NCurses library 
+
+
+
